@@ -1,0 +1,1 @@
+Search.setIndex({titles:["Welcome to Ian Reay&#8217;s personal documentation"],terms:{welcom:0,search:0,reai:0,person:0,doc:[],index:0,modul:0,ian:0,document:0,indic:0,tabl:0,content:0,page:0},objnames:{},objtypes:{},objects:{},filenames:["index"]})

@@ -2,6 +2,11 @@
 Vim
 =================================================
 
+Quick reference
+--------------------------------------------------------------------------------
+
+:ref:`Useful keyboard shortcuts <vim-shortcuts>`
+
 Books
 -------------------------------------------------
 
@@ -14,5 +19,30 @@ Plugins
 `Vundle <https://github.com/gmarik/vundle>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The `Vundle <https://github.com/gmarik/vundle>`_ site has a good tutorial on
-how to get going with it. Works well for windows.
+The `Vundle <https://github.com/gmarik/vundle>`_ plugin is pretty much
+mandatory if you are doing software development with vim. While you should
+strive to minimize the number of plugins you depend upon, some plugins are well
+worth it, and Vundle makes loading them dead easy.
+
+The site has a good tutorial on how to get going with it. Works well for windows.
+
+`Vim-Commentary <https://github.com/tpope/vim-commentary>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Vim-Commentary <https://github.com/tpope/vim-commentary>`_ is a really nice
+plugin when you are editing code or latex files. It provides a very slick way
+of commenting and uncommenting large chunks of code.
+
+Also very useful when you are putting comments in your code. Just write
+language as you normally would and the comment the paragraph.
+
+`Python-mode <https://github.com/klen/python-mode>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`Python-mode <https://github.com/klen/python-mode>`_ is a nearly mandatory
+plugin if you are doing work with python in vim. Its main strengths are:
+
+* `PEP8 <http://www.python.org/dev/peps/pep-0008/>`_ style enforcement
+* effective python auto indenting
+* pylint code checking
+ 
+Its well worth the small amount of time required to set it up.

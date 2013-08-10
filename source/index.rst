@@ -8,12 +8,45 @@ Welcome to Ian Reay's personal documentation
 
 Contents:
 
+Text editors:
+
+* :ref:`vim <vim>`
+
+Programming Languages:
+
+* :ref:`c++ <c++>`
+* :ref:`python <python>`
+* :ref:`ruby <ruby>`
+
+Debuggers:
+
+* :ref:`windbg <windbg>`
+
+Revision control:
+
+* :ref:`git <git>`
+* :ref:`svn <svn>`
+* :ref:`hg <hg>`
+
+Documentation:
+
+* :ref:`python-sphinx <python-sphinx>`
+* :ref:`latex <latex>`
+
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
+   c++
+   python
+   ruby
    git
    python-sphinx
    latex
+   windbg
+   svn
+   hg
+   vim
 
 
 Indices and tables

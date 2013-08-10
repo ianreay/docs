@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ian Reay's personal documentation
+Ian Reay
 ====================================================
 
 Personal links:
@@ -29,6 +29,10 @@ Products I specialize in:
 Text editors:
 
 * :ref:`vim <vim>`
+
+IDEs:
+
+* :ref:`Visual Studio <visual-studio>`
 
 Programming Languages:
 
@@ -57,9 +61,15 @@ SQL Databases:
 * :ref:`Oracle <oracle>`
 * :ref:`SQLite <sqlite>`
 
+Utilities:
+
+* :ref:`Process Explorer (Procexp.exe) <procexp>`
+* :ref:`Process Monitor (Procmon.exe) <procmon>`
+
 Miscellaneous:
 
 * `Regular expressions <http://www.regextester.com/>`_
+* `Filezilla FTP Client <https://filezilla-project.org/>`_
 
 .. toctree::
    :maxdepth: 2
@@ -68,10 +78,4 @@ Miscellaneous:
    *
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

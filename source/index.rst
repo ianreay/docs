@@ -12,7 +12,7 @@ Personal links:
 * `Facebook <https://www.facebook.com/ireay>`_
 * `Github <https://github.com/ianreay>`_
 * `Pinterest <http://pinterest.com/ireay/>`_
-
+* `Ianreay.com <http://ianreay.com/>`_ :ref:`ianreaycom <ianreaycom>`
 Work:
 
 * `Hitachi ID <http://hitachi-id.com/>`_

@@ -66,6 +66,11 @@ Utilities:
 * :ref:`Process Explorer (Procexp.exe) <procexp>`
 * :ref:`Process Monitor (Procmon.exe) <procmon>`
 
+Web browsers:
+
+* :ref:`Internet Explorer <internet-explorer>`
+* :ref:`Browser Data Storage <browser-data-storage>`
+
 Miscellaneous:
 
 * `Regular expressions <http://www.regextester.com/>`_

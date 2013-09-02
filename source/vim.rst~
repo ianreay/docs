@@ -2,11 +2,22 @@
 Vim
 =================================================
 
+Quick reference
+--------------------------------------------------------------------------------
+
+:ref:`Useful keyboard shortcuts <vim-shortcuts>`
+
 Books
 -------------------------------------------------
 
 `Practical VIM <http://pragprog.com/book/dnvim/practical-vim>`_ is a very
 effective book. Lots of examples and well written.
+
+Tutorials
+--------------------------------------------------------------------------------
+
+`Easier buffer switching <http://vim.wikia.com/wiki/Easier_buffer_switching>`_
+`Fix indentation <http://vim.wikia.com/wiki/Fix_indentation>`_
 
 Plugins
 -------------------------------------------------
@@ -41,3 +52,7 @@ plugin if you are doing work with python in vim. Its main strengths are:
 * pylint code checking
  
 Its well worth the small amount of time required to set it up.
+
+`Nerd tree <https://github.com/scrooloose/nerdtree>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:help NERD_tree.txt

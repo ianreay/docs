@@ -79,10 +79,11 @@ Utilities:
 
 * :ref:`Process Explorer (Procexp.exe) <procexp>`
 * :ref:`Process Monitor (Procmon.exe) <procmon>`
-
-Web-browsers:
-
-* :ref:`chrome <chrome>`
+ 
+Web Browsers:
+* :ref:`Internet Explorer <internet-explorer>`
+* :ref:`Browser Data Storage <browser-data-storage>`
+* :ref:`Chrome <chrome>`
 
 Miscellaneous:
 

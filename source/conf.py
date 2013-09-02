@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Ian Reay\'s personal docs'
+project = 'Ian Reay'
 copyright = '2013, Ian Reay'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -92,12 +92,14 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'default'
+html_theme = 'haiku'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+    "nosidebar": "true"
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -246,7 +248,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = 'Ian Reay\'s personal docs'
+epub_title = 'Ian Reay'
 epub_author = 'Ian Reay'
 epub_publisher = 'Ian Reay'
 epub_copyright = '2013, Ian Reay'

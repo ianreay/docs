@@ -13,6 +13,7 @@ Personal links:
 * `Github <https://github.com/ianreay>`_
 * `Pinterest <http://pinterest.com/ireay/>`_
 * `Ianreay.com <http://ianreay.com/>`_ :ref:`ianreaycom <ianreaycom>`
+
 Work:
 
 * `Hitachi ID <http://hitachi-id.com/>`_
@@ -29,6 +30,11 @@ Products I specialize in:
 Text editors:
 
 * :ref:`vim <vim>`
+
+Editor tools:
+
+* :ref:`ctags <ctags>`
+* :ref:`cscope <cscope>`  
 
 IDEs:
 
@@ -54,6 +60,11 @@ Documentation:
 
 * :ref:`python-sphinx <python-sphinx>`
 * :ref:`latex <latex>`
+* :ref:`opengrok <opengrok>`
+
+Project Management:
+
+* :ref:`ProjectLibre <project-libre>`
 
 SQL Databases:
 
@@ -61,10 +72,17 @@ SQL Databases:
 * :ref:`Oracle <oracle>`
 * :ref:`SQLite <sqlite>`
 
+Automation:
+* :ref:`Powershell <powershell>`
+
 Utilities:
 
 * :ref:`Process Explorer (Procexp.exe) <procexp>`
 * :ref:`Process Monitor (Procmon.exe) <procmon>`
+
+Web-browsers:
+
+* :ref:`chrome <chrome>`
 
 Miscellaneous:
 
@@ -74,8 +92,3 @@ Miscellaneous:
 .. toctree::
    :maxdepth: 2
    :hidden:
-
-   *
-
-
-

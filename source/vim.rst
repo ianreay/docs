@@ -93,6 +93,14 @@ Quick tutorial:
 * Select the mysession session and open it
 * All your original windows, tabs, and environment settings should be restored
 
+`VimWiki <https://github.com/vim-scripts/vimwiki>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+People frequently have personal note files, todo lists, quick references, etc. They tend to be large blobs of sometimes difficult to understand stuff.
+
+VimWiki is a very convenient way of organizing that info.
+
+I use drop box to synchornize my vimwiki files between my computers since the content is not of a type that I want to publish to locations such as github.com
+
 `Vim-Commentary <https://github.com/tpope/vim-commentary>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

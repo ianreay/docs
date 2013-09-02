@@ -14,3 +14,6 @@ Push:
 
 * git push -u origin master
   
+Pull:
+
+* git pull

@@ -20,6 +20,11 @@ Tutorials
 `Fix indentation <http://vim.wikia.com/wiki/Fix_indentation>`_
 `VIM loading sequence and vundle <https://github.com/gmarik/vundle/issues/163>`_
 
+Screencasts
+-------------------------------------------------------------------------------
+
+`VimCasts <http://vimcasts.org/>`_
+
 Tips for learning VIM
 -------------------------------------------------------------------------------
 

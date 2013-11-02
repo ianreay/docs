@@ -2,6 +2,23 @@
 Powershell
 ===============================================================================
 
+Powershell ISE
+-------------------------------------------------------------------------------
+
+powershell_ise.exe is an environment that ships in all versions of windows. It gives you a small simple editor environment right out of the box. 
+
+Main parts are:
+* Multiple powershell tabs
+* Integrated powershell debugger
+* A basic powershell script editor
+
+PSRemoting
+-------------------------------------------------------------------------------
+
+`Enable PSRemoting to Workgroup Computers <http://blogs.msdn.com/b/wmi/archive/2009/07/24/powershell-remoting-between-two-workgroup-machines.aspx>`_
+
+`Remote Sessions <http://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/>`_
+
 Help
 -------------------------------------------------------------------------------
 

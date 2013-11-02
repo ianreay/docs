@@ -79,11 +79,15 @@ Utilities:
 
 * :ref:`Process Explorer (Procexp.exe) <procexp>`
 * :ref:`Process Monitor (Procmon.exe) <procmon>`
+* :ref:`Putty <putty>`
  
 Web Browsers:
 * :ref:`Internet Explorer <internet-explorer>`
 * :ref:`Browser Data Storage <browser-data-storage>`
 * :ref:`Chrome <chrome>`
+
+Screen recorders:
+* :ref:`Screenr <screenr>`
 
 Miscellaneous:
 
